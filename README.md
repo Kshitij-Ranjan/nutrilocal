@@ -1,36 +1,108 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🧠 NutriLocal  
+### Personalized Nutrition. Local Intelligence. Budget-Aware Health.
 
-## Getting Started
+NutriLocal is an AI-powered web platform that generates **personalized daily diet plans** based on nutritional deficiencies, symptoms, location, and budget.
 
-First, run the development server:
+Instead of recommending expensive supplements, NutriLocal focuses on **real, locally available food** to make nutrition practical, accessible, and sustainable.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Live Demo
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+🔗 [https://your-vercel-link.vercel.app ](https://nutrilocal0512.vercel.app/login) 
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🎯 Problem Statement
 
-To learn more about Next.js, take a look at the following resources:
+Many individuals experience symptoms such as:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Fatigue  
+- Hair loss  
+- Muscle cramps  
+- Low energy  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+However, most people:
 
-## Deploy on Vercel
+- Do not understand the nutritional root cause  
+- Cannot interpret deficiencies into real food choices  
+- Rely on expensive supplements  
+- Lack structured daily guidance  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+NutriLocal bridges that gap.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 💡 Solution
+
+NutriLocal:
+
+- 🧠 Analyzes symptoms or known deficiencies using AI  
+- 🌍 Generates location-aware food recommendations  
+- 💰 Optimizes suggestions based on user budget  
+- 🥗 Provides structured daily meal guidance  
+- 🤖 Includes an AI chat assistant for symptom-based analysis  
+
+Health should be practical, accessible, and personalized.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- Next.js (App Router)
+- Tailwind CSS
+- Framer Motion (animations & tilt effects)
+
+### Backend
+- Next.js API Routes
+- OpenAI API (AI-powered analysis & diet generation)
+
+### Deployment
+- Vercel
+
+---
+
+## 🔐 Authentication System
+
+- Multi-user registration
+- Email validation
+- Password validation
+- Protected routes
+- Session management via localStorage
+- Hover dropdown logout
+- Interactive login & register UI with 3D tilt effects
+
+---
+
+## 🎨 UI & UX Highlights
+
+- Cinematic red + black theme
+- Glassmorphism cards
+- Cursor-follow glow effects
+- 3D tilt interaction
+- Parallax hero section
+- Staggered animations
+- Floating AI chat bubble
+- Fully responsive design
+
+---
+
+## 🧠 AI Features
+
+### 1️⃣ Symptom Analysis
+Users can input symptoms to receive possible deficiency insights.
+
+### 2️⃣ Diet Plan Generation
+Based on:
+- Age
+- Location
+- Budget
+- Diet type
+- Deficiency
+
+The AI generates a structured daily meal plan.
+
+---
+
+## 📂 Project Structure

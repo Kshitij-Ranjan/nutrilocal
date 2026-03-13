@@ -9,7 +9,7 @@ Instead of recommending expensive supplements, NutriLocal focuses on **real, loc
 
 ## 🚀 Live Demo
 
-🔗 [https://your-vercel-link.vercel.app ](https://nutrilocal0512.vercel.app/login) 
+🔗 [NutriLocal](https://nutrilocal0512.vercel.app/login) 
 
 ---
 
